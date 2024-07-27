@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>首页 on TongYu blog</title>
+    <link>//localhost:4321/</link>
+    <description>Recent content in 首页 on TongYu blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>//localhost:4321/%E6%80%BB%E7%BB%93/01-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/%E6%80%BB%E7%BB%93/01-intro/</guid>
+      <description>The Hugo Paged theme was inspired by the paged.js website.&#xA;The paged.js website The paged.js library is awesome. Its website is also beautiful.&#xA;The crop marks I love the crop marks. I couldn&amp;rsquo;t imagine that they were made from three rectangles:&#xA;&amp;lt;div class=&amp;quot;crop-h&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- horizontal lines --&amp;gt; &amp;lt;div class=&amp;quot;crop-v&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- vertical lines --&amp;gt; &amp;lt;div class=&amp;quot;crop-c&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- cover some segments --&amp;gt; Make their position absolute, and shrink them a little bit:</description>
+    </item>
+    <item>
+      <title>Getting started</title>
+      <link>//localhost:4321/%E6%80%BB%E7%BB%93/02-get-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/%E6%80%BB%E7%BB%93/02-get-started/</guid>
+      <description>There are two ways to get started with this theme, depending on whether you use R or Hugo.&#xA;R users If you use R, the easiest way to get started is to install the blogdown package, and create a new site with this theme:&#xA;install.packages(&#39;blogdown&#39;) blogdown::new_site(theme = &#39;yihui/hugo-paged&#39;) Or you can create a new RStudio blogdown project (if you use RStudio) with the yihui/hugo-paged theme.&#xA;Hugo users Create a new Hugo site with hugo new.</description>
+    </item>
+    <item>
+      <title>Customization</title>
+      <link>//localhost:4321/%E6%80%BB%E7%BB%93/03-customization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/%E6%80%BB%E7%BB%93/03-customization/</guid>
+      <description>The more you know, the less real work you will get done. You have been warned.&#xA;Site config In your site config file (hugo.yaml or config.yaml), you can customize some options such as the top menu or footer, which should be straightforward to understand if you take a look at the exampleSite&amp;rsquo;s config file.&#xA;If you want to add a logo to the left of the top navigation bar, you can use the logo parameter, e.</description>
+    </item>
+    <item>
+      <title>Hello R Markdown</title>
+      <link>//localhost:4321/%E6%97%A5%E5%BF%97/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>//localhost:4321/%E6%97%A5%E5%BF%97/2020-12-01-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.&#xA;You can embed an R code chunk like this:&#xA;summary(cars)&#xD;## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    <item>
+      <title>A Plain Markdown Post</title>
+      <link>//localhost:4321/%E6%97%A5%E5%BF%97/2016-02-14-hello-markdown/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/%E6%97%A5%E5%BF%97/2016-02-14-hello-markdown/</guid>
+      <description>Sample Text Third-level header Fourth-level header A paragraph (with a footnote):&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>//localhost:4321/%E6%97%A5%E5%BF%97/2015-07-23-lorem-ipsum/</link>
+      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/%E6%97%A5%E5%BF%97/2015-07-23-lorem-ipsum/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#xA;Quisque mattis volutpat lorem vitae feugiat.</description>
+    </item>
+    <item>
+      <title>关于彤宇</title>
+      <link>//localhost:4321/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/about/</guid>
+      <description>我是谁&#xD;学习之余我在干什么&#xD;联系方式&#xD;我常看的博客&#xD;我的博客&#xD;我是谁&#xD;吴彤宇，湖南娄底人，2004年生，土生土长农村人。2010 - 21 年在深圳生活；2021 - 25 年于长沙理工大学读本科，经历了完整的疫情。现深圳-长沙两地来回跑，择业中。&#xA;喜欢阅读，相信积累，相信周期，重度使用 Chatgpt，正在拥抱时代，走在成为我自己的道路上。&#xA;学习之余我在干什么&#xD;健身：每周一二三四进行力量训练，一起变强；&#xD;探索：学习如双拼之类各种技能；&#xD;输入：学习遵记高频更新；&#xD;输出：正在练习。&#xD;联系方式&#xD;GitHub&#xD;微信（w0422ty）&#xD;邮件（ab2696740830@163.com）&#xD;我常看的博客&#xD;李笑来&#xD;稀土掘金&#xD;谢益辉&#xD;以上按姓氏拼音排序，每一位博主都温暖有力量。&#xA;我的博客&#xD;我的博客通过 blogdown 建立，使用了 Hugo-Paged 主题。评论系统采用 Giscus，它支持楼中楼评论。&#xD;如果你也想搭建博客，我推荐阅读 blogdown: Creating Websites with R Markdown。</description>
+    </item>
+    <item>
+      <title>搜索</title>
+      <link>//localhost:4321/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/search/</guid>
+      <description>The searching is performed via fuse.js. For the search keywords, white spaces act as the AND operator, and | acts as the OR operator. To match an exact phrase, double quote it. For example, R Markdown matches articles that contain both R and Markdown, R | Markdown matches articles that contain R or Markdown, and &amp;quot;R Markdown&amp;quot; matches articles that contain the whole phrase R Markdown.</description>
+    </item>
+  </channel>
+</rss>

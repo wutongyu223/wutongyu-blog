@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on TongYu blog</title>
+    <link>//localhost:4321/categories/hugo/</link>
+    <description>Recent content in Hugo on TongYu blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 14 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>//localhost:4321/%E6%80%BB%E7%BB%93/01-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/%E6%80%BB%E7%BB%93/01-intro/</guid>
+      <description>The Hugo Paged theme was inspired by the paged.js website.&#xA;The paged.js website The paged.js library is awesome. Its website is also beautiful.&#xA;The crop marks I love the crop marks. I couldn&amp;rsquo;t imagine that they were made from three rectangles:&#xA;&amp;lt;div class=&amp;quot;crop-h&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- horizontal lines --&amp;gt; &amp;lt;div class=&amp;quot;crop-v&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- vertical lines --&amp;gt; &amp;lt;div class=&amp;quot;crop-c&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- cover some segments --&amp;gt; Make their position absolute, and shrink them a little bit:</description>
+    </item>
+    <item>
+      <title>A Plain Markdown Post</title>
+      <link>//localhost:4321/%E6%97%A5%E5%BF%97/2016-02-14-hello-markdown/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/%E6%97%A5%E5%BF%97/2016-02-14-hello-markdown/</guid>
+      <description>Sample Text Third-level header Fourth-level header A paragraph (with a footnote):&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+  </channel>
+</rss>

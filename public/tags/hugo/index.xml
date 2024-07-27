@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on TongYu blog</title>
+    <link>//localhost:4321/tags/hugo/</link>
+    <description>Recent content in Hugo on TongYu blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="//localhost:4321/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting started</title>
+      <link>//localhost:4321/%E6%80%BB%E7%BB%93/02-get-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/%E6%80%BB%E7%BB%93/02-get-started/</guid>
+      <description>There are two ways to get started with this theme, depending on whether you use R or Hugo.&#xA;R users If you use R, the easiest way to get started is to install the blogdown package, and create a new site with this theme:&#xA;install.packages(&#39;blogdown&#39;) blogdown::new_site(theme = &#39;yihui/hugo-paged&#39;) Or you can create a new RStudio blogdown project (if you use RStudio) with the yihui/hugo-paged theme.&#xA;Hugo users Create a new Hugo site with hugo new.</description>
+    </item>
+  </channel>
+</rss>

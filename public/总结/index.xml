@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on TongYu blog</title>
+    <link>//localhost:4321/%E6%80%BB%E7%BB%93/</link>
+    <description>Recent content in Documentation on TongYu blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="//localhost:4321/%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>//localhost:4321/%E6%80%BB%E7%BB%93/01-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/%E6%80%BB%E7%BB%93/01-intro/</guid>
+      <description>The Hugo Paged theme was inspired by the paged.js website.&#xA;The paged.js website The paged.js library is awesome. Its website is also beautiful.&#xA;The crop marks I love the crop marks. I couldn&amp;rsquo;t imagine that they were made from three rectangles:&#xA;&amp;lt;div class=&amp;quot;crop-h&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- horizontal lines --&amp;gt; &amp;lt;div class=&amp;quot;crop-v&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- vertical lines --&amp;gt; &amp;lt;div class=&amp;quot;crop-c&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- cover some segments --&amp;gt; Make their position absolute, and shrink them a little bit:</description>
+    </item>
+    <item>
+      <title>Getting started</title>
+      <link>//localhost:4321/%E6%80%BB%E7%BB%93/02-get-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/%E6%80%BB%E7%BB%93/02-get-started/</guid>
+      <description>There are two ways to get started with this theme, depending on whether you use R or Hugo.&#xA;R users If you use R, the easiest way to get started is to install the blogdown package, and create a new site with this theme:&#xA;install.packages(&#39;blogdown&#39;) blogdown::new_site(theme = &#39;yihui/hugo-paged&#39;) Or you can create a new RStudio blogdown project (if you use RStudio) with the yihui/hugo-paged theme.&#xA;Hugo users Create a new Hugo site with hugo new.</description>
+    </item>
+    <item>
+      <title>Customization</title>
+      <link>//localhost:4321/%E6%80%BB%E7%BB%93/03-customization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/%E6%80%BB%E7%BB%93/03-customization/</guid>
+      <description>The more you know, the less real work you will get done. You have been warned.&#xA;Site config In your site config file (hugo.yaml or config.yaml), you can customize some options such as the top menu or footer, which should be straightforward to understand if you take a look at the exampleSite&amp;rsquo;s config file.&#xA;If you want to add a logo to the left of the top navigation bar, you can use the logo parameter, e.</description>
+    </item>
+  </channel>
+</rss>
